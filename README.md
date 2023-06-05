@@ -18,7 +18,3 @@ I am a passionate and motivated software development student. Currently, I am pu
 ## Contact
 
 Feel free to reach out to me via email at [ahmetyusufdmr88@gmail.com](mailto:ahmetyusufdmr88@gmail.com). I am always open to new opportunities, collaborations, and learning experiences.
-
-## Additional Links
-
-- [LinkedIn](https://www.linkedin.com/in/ahmet-yusuf-demir-310101252/)
