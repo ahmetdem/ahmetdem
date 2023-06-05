@@ -22,5 +22,3 @@ Feel free to reach out to me via email at [ahmetyusufdmr88@gmail.com](mailto:ahm
 ## Additional Links
 
 - [LinkedIn](https://www.linkedin.com/in/ahmet-yusuf-demir-310101252/)
-
-Thank you for visiting my profile!
