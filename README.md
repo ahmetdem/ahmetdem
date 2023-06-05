@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**ahmetdem/ahmetdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate and motivated software development student. Currently, I am pursuing my studies in software development and actively seeking opportunities to expand my knowledge and gain hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming languages: Python
+- Database management: Sqlite
+- Problem-solving and algorithmic thinking
+- Analytical and debugging skills
+
+## Education
+
+- in Software Department, Ankara Yıldırım Beyazıd University, Expected Graduation: 2026
+
+## Contact
+
+Feel free to reach out to me via email at [ahmetyusufdmr88@gmail.com](mailto:ahmetyusufdmr88@gmail.com). I am always open to new opportunities, collaborations, and learning experiences.
+
+## Additional Links
+
+- [LinkedIn](https://www.linkedin.com/in/ahmet-yusuf-demir-310101252/)
+
+Thank you for visiting my profile!
