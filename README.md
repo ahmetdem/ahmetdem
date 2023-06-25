@@ -4,8 +4,6 @@
 
 I am a passionate and motivated software development student. Currently, I am pursuing my studies in software development and actively seeking opportunities to expand my knowledge and gain hands-on experience.
 
-Learning c++ at the moment.
-
 ## Skills
 
 - Programming languages: Python
