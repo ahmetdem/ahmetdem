@@ -2,7 +2,7 @@
 
 ## Skills
 
-- Programming languages: Python, C++
+- Programming languages: Python, C++, C
 - Database management: Sqlite
 - Problem-solving and algorithmic thinking
 - Analytical and debugging skills
