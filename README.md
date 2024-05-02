@@ -4,11 +4,6 @@
 
 I am a passionate and motivated software development student. Currently interested in learning new frameworks and languages, this is why i am always trying new projects about variety of fields. 
 
-## Skills
-- Programming languages: Python, C++, C, Javascript
-- Problem-solving and algorithmic thinking
-- Analytical and debugging skills
-
 ## Education
 
 - in Software Department, Ankara Yıldırım Beyazıd University, Expected Graduation: 2026
