@@ -10,7 +10,7 @@ I am a passionate and motivated software development student. Currently interest
 
 ## Contact
 
-- Email: [ahmetyusufdmr88@gmail.com](mailto:ahmetdmes@gmail.com)
+- Email: [ahmetdmes@gmail.com](mailto:ahmetdmes@gmail.com)
 - LinkedIn: [in/ahmetdem](https://www.linkedin.com/in/ahmetdem/)
 
 I am always open to new opportunities, collaborations, and learning experiences, feel free to reach me!
