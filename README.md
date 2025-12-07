@@ -6,7 +6,7 @@ I am a passionate and motivated software development student. Currently interest
 
 ## Education
 
-- in Software Department, Ankara Yıldırım Beyazıd University, Expected Graduation: 2026
+- in Software Department,Expected Graduation: 2026
 
 ## Contact
 
