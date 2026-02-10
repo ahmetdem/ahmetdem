@@ -1,6 +1,6 @@
 ![][header]
 
-i am interested in low level / game programming.
+I am interested in low level / game programming. Also i love experimenting. 
 
 ---
 
