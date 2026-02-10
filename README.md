@@ -19,6 +19,4 @@ i am interested in low level / game programming.
 
 > more on pinned repos below
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetdem)
-
 [header]: https://github.com/user-attachments/assets/1433f06f-8111-4f69-9f33-b6ef9c62dd24
